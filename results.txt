@@ -1,0 +1,120 @@
+RESULTS AS OF 23:45 Japan Standard Time 25th of December 2018
+
+Hero:               	Number of Master Tiers:
+ 
+Abaddon             	7   
+Alchemist           	9   
+Ancient Apparition  	71  
+Anti-Mage           	11  
+Arc Warden          	50  
+Axe                 	69  
+Bane                	8   
+Batrider            	3   
+Beastmaster         	2   
+Bloodseeker         	47  
+Bounty Hunter       	8   
+Brewmaster          	26  
+Bristleback         	37  
+Broodmother         	32  
+Centaur Warrunner   	2   
+Chaos Knight        	16  
+Chen                	16  
+Clinkz              	52  
+Clockwerk           	10  
+Crystal Maiden      	138 
+Dark Seer           	12  
+Dark Willow         	89  
+Dazzle              	14  
+Death Prophet       	9   
+Disruptor           	24  
+Doom                	14  
+Dragon Knight       	8   
+Drow Ranger         	35  
+Earth Spirit        	19  
+Earthshaker         	17  
+Elder Titan         	18  
+Ember Spirit        	58  
+Enchantress         	14  
+Enigma              	38  
+Faceless Void       	32  
+Grimstroke          	2   
+Gyrocopter          	0   
+Huskar              	35  
+Invoker             	583 
+Io                  	55  
+Jakiro              	13  
+Juggernaut          	50  
+Keeper of the Light 	28  
+Kunkka              	81  
+Legion Commander    	63  
+Leshrac             	7   
+Lich                	70  
+Lifestealer         	2   
+Lina                	21  
+Lion                	16  
+Lone Druid          	10  
+Luna                	14  
+Lycan               	6   
+Magnus              	13  
+Medusa              	3   
+Meepo               	89  
+Mirana              	67  
+Monkey King         	47  
+Morphling           	47  
+Naga Siren          	0   
+Nature's Prophet    	18  
+Necrophos           	18  
+Night Stalker       	1   
+Nyx Assassin        	2   
+Ogre Magi           	24  
+Omniknight          	4   
+Oracle              	56  
+Outworld Devourer   	11  
+Pangolier           	37  
+Phantom Assassin    	65  
+Phantom Lancer      	12  
+Phoenix             	179 
+Puck                	12  
+Pudge               	496 
+Pugna               	21  
+Queen of Pain       	18  
+Razor               	1   
+Riki                	157 
+Rubick              	69  
+Sand King           	14  
+Shadow Demon        	8   
+Shadow Fiend        	43  
+Shadow Shaman       	85  
+Silencer            	19  
+Skywrath Mage       	70  
+Slardar             	1   
+Slark               	23  
+Sniper              	39  
+Spectre             	37  
+Spirit Breaker      	21  
+Storm Spirit        	24  
+Sven                	8   
+Techies             	156 
+Templar Assassin    	19  
+Terrorblade         	11  
+Tidehunter          	1   
+Timbersaw           	13  
+Tinker              	167 
+Tiny                	4   
+Treant Protector    	29  
+Troll Warlord       	8   
+Tusk                	9   
+Underlord           	5   
+Undying             	16  
+Ursa                	25  
+Vengeful Spirit     	9   
+Venomancer          	3   
+Viper               	7   
+Visage              	55  
+Warlock             	18  
+Weaver              	26  
+Windranger          	81  
+Winter Wyvern       	16  
+Witch Doctor        	125 
+Wraith King         	36  
+Zeus                	66  
