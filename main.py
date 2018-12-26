@@ -58,12 +58,14 @@ def getDotaPlusRanks(id):
     for i in range (0, len(heroList)):
         if heroList[i].heroid == id:
             heroList[i].playerCount = count
+            break
             
     print("Done!")
 
 #main function, gets the list of heroes, then the number of master tier players and outputs it in alphabetical order
 def getAllHeroes():
     getHeroes()
+
     for i in range (0, len(heroList)):
         getDotaPlusRanks(heroList[i].heroid)
     heroList.sort(key=attrgetter('heroName'))
@@ -71,6 +73,5 @@ def getAllHeroes():
     print("\n\n{:20}\t{:25}".format("Hero:", "Number of Master Tiers:\n"))
     for i in range (0, len(heroList)):
         print("{:20}\t{:4}".format(str(heroList[i].heroName), str(heroList[i].playerCount)))    
-
 
 getAllHeroes()
