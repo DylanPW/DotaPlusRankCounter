@@ -1,5 +1,4 @@
-virtualenv/
-.vscode/
+virtualenv/**
+.vscode/**
 
-
-results.csv
+*.csv
