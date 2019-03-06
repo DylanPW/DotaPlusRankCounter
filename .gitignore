@@ -1,3 +1,5 @@
 virtualenv/
 .vscode/
-*.csv
+
+
+results.csv
