@@ -7,7 +7,7 @@ May take a while depending on the speed of the internet connection and the numbe
 
 ## Prerequisites
 
-This script requires the `requests` library availible via `pip install requests`
+This script requires the `requests` library available via `pip install requests`
 
 ## Usage
 
