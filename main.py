@@ -64,9 +64,9 @@ def getDotaPlusRanks(id):
                 break
         else:
             for i in range (0, r_len):
-                if int(r_json['players'][i]['level']) == 25:
+                if int(r_json['players'][i]['level']) == 30:
                     count += 1
-                elif int(r_json['players'][i]['level'] != 25):
+                elif int(r_json['players'][i]['level'] != 30):
                     master = False
                     break
 
